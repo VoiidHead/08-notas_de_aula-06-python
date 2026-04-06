@@ -1,4 +1,4 @@
-# Notas de aula de 2026.1.FIXME - Python FIXME
+# Notas de aula de 2026.1.08 - Python 06
 
 ## Informações gerais
 
