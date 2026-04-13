@@ -18,6 +18,7 @@
 
 ---
 ## Exercícios 
+[Respostas dos Exercícios](/lialaia.py)
 1. Corrija o programa abaixo eliminando o erro de sintaxe.
 
 ```python
